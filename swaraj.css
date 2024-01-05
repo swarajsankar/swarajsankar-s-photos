@@ -1,0 +1,69 @@
+.main{
+color: yellow;
+}
+.blackandwhite{
+width: 100%;
+background-image: url(DSC_5826.jpg);
+background-size: cover;
+background-attachment: fixed;
+}
+p{
+font-family: Comic Sans MS, Open Sans, Arial;
+}
+.color{
+width: 100%;
+background-image: url(20231226_191444_0000.png);
+background-size: 100% 100%;
+background-repeat: no-repeat;
+background-attachment: fixed;
+}
+.end{
+width:100%;
+background-color: #f2f3f4;
+background-size: 100% 100%;
+background-repeat: no-repeat;
+}
+@media (max-width: 600px){
+.main{
+width: 100%;
+}
+.blackandwhite{
+width: 100%;
+}
+.color{
+width: 100%;
+}
+}
+@media (min-width: 601px){
+.main{
+width: 100%;
+}
+.blackandwhite{
+width: 100%;
+}
+.color{
+width: 100%;
+}
+}
+@media (min-width: 768px){
+.main{
+width: 100%;
+}
+.blackandwhite{
+width: 100%;
+}
+.color{
+width: 100%;
+}
+}
+a{
+text-decoration: none;
+}
+}
+a:link{
+text-decoration: none;
+color: blue;
+}
+a:hover{
+text-decoration: underline;
+color: green;
